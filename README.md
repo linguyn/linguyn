@@ -8,7 +8,7 @@ I'm especially interested in game development, 3D graphics, and computer vision,
 
 ## Skills
 
-- **Languages:** Python, Java, JavaScript, C#, Bash
+- **Languages:** Python, Java, JavaScript, C#, C++, Bash
 - **Frameworks & Libraries:** React, Express.js, FastAPI, Pydantic
 - **Game Development:** Unity, Unreal Engine
 - **Databases:** MongoDB, MySQL
