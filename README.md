@@ -47,3 +47,8 @@ A 2D game where players earn points by talking in class without getting caught b
 
 - **Language:** Java
 - **Technologies:** Swing, AWT/Java 2D, Timer/TimerTask, mouse and button event handling
+
+### [PhishLens](https://github.com/linguyn/PhishLens.git)
+A machine-learning project that classifies websites as phishing, suspicious, or legitimate using decision trees. Features data preprocessing, hyperparameter tuning, model accuracy comparisons, and feature-importance analysis to explain classification decisions.
+- **Language:** Python
+- **Technologies:** scikit-learn, Pandas, SciPy, Matplotlib, GridSearchCV, stratified sampling, cross-validation
